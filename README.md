@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuciaMassawe
+- 👋 Hi, I’m @Lucia Massawe
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning AWS, Paython and Git
 - 💞️ I’m looking to collaborate on Coding
