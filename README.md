@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lucia Massawe
-- 👀 I’m interested in Cloud Computing
+- 👀 I’m interested in Networking & Cloud Computing
 - 🌱 I’m currently learning AWS, Paython and Git
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me luciamassaweh@gmail.com
