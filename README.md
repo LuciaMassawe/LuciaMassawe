@@ -1,4 +1,4 @@
-- 👋 Hi there, I'm @Lucia Massawe
+- 👋 Hi there, I'm @Lucia
 - 🌐 I'm into **Networking & Cloud Computing**
 - 🤝 I'm looking to collaborate on **Coding Projects**
 - 📫 How to reach me: **luciamassaweh@gmail.com**
